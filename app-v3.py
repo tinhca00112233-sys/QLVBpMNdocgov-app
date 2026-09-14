@@ -769,6 +769,5 @@ elif menu == "💾 CSDL SQLite & Báo Cáo Văn Bản":
 # --- FOOTER ---
 st.divider()
 st.caption("© 2026 DocGov Phường Mỹ Ngãi, TP. Cao Lãnh, Đồng Tháp. Tích hợp Bản đồ GIS 12 Khóm & CSDL SQLite vĩnh viễn.")
-pip install nbconvert
 jupyter nbconvert --to html ten_file.py
 
